@@ -85,4 +85,4 @@ for i in range(day):
   
   sleep(3)
 
-  # ©️RK.2023-3-12pip listpip list
+  # ©️RK.2023-3-12
